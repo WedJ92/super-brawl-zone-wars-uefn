@@ -69,7 +69,6 @@ Premier projet de game-dev complet mené de bout en bout : conception, level des
 
 ## 👤 Auteur
 
-**Joassaint Wedjy** 
 
 📧 wedjoa12@gmail.com
 💻 [github.com/WedJ92](https://github.com/WedJ92)
